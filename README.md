@@ -2,16 +2,15 @@
 
 💻 I'm a **Full-Stack Developer (in progress 🚀)** who loves learning and building mini projects to sharpen my skills.  
 🎯 Currently focusing on **JavaScript, React, Next.js, Node.js, Docker, and PostgreSQL**.  
-📚 I'm also exploring **finance & investing (ETF, DCA)** and **self-development projects** in my free time.  
 
 ---
 
 ## 🛠 Tech Stack & Tools  
 - Frontend: **HTML, CSS, JavaScript, React, Next.js**  
 - Backend: **Node.js, Express**  
-- Database: **PostgreSQL, Firebase**  
+- Database: **MongoDB, Firebase, MySQL**  
 - DevOps: **Docker, Git, GitHub**  
-- Others: **pgAdmin, Firebase Auth, REST API**  
+- Others: **pgAdmin, Firebase Auth**  
 
 ---
 
@@ -32,8 +31,7 @@
 ---
 
 ## 📫 Connect with me  
-- GitHub: [Jirawat-MySpace](https://github.com/Jirawat-MySpace)  
-- LinkedIn: (ใส่ลิงก์ถ้ามี)  
-- Email: (ใส่อีเมลถ้าอยากให้ติดต่อได้)  
+- GitHub: [Jirawat-MySpace](https://github.com/Jirawat-MySpace)   
+- Email: jirawat.su2004@gmail.com  
 
 ✨ *“Keep building. Keep learning. Keep growing.”*  
